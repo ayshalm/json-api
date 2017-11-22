@@ -1,0 +1,51 @@
+{
+    "producs": [
+        {
+  
+                "product": "Lettuce",
+                "price": "8.00 AED",
+                "tax": "Zero Rated"
+                
+        },
+        {
+
+                "product": "Flour",
+                "price": "10.00 AED",
+                "tax": "Zero Rated"
+                
+        },
+        {
+                "product": "Water",
+                "price": "2.00 AED",
+                "tax": "Zero Rated"
+                
+        },
+        {
+                "product": "Milk",
+                "price": "6.00 AED",
+                "tax": "Zero Rated"
+        },
+        {
+                "product": "Chocolate",
+                "price": "4.00 AED",
+                "tax": "Taxable"
+        },
+        {
+                "product": "Pepsi",
+                "price": "6.00 AED",
+                "tax": "Taxable"
+        },
+        {
+                "product": "Ice cream",
+                "price": "6.00 AED",
+                "tax": "Taxable"
+
+        },
+        {
+                "product": "Cigarette",
+                "price": "20.00 AED",
+                "tax": "Taxable"
+
+        }
+    ]
+}
